@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745651783149",
+    "project_id": "salons-c1eaf",
+    "storage_bucket": "salons-c1eaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745651783149:android:3c17dbaa41ba035cc953e4",
+        "android_client_info": {
+          "package_name": "com.abodfatairy.our"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOS3udYOCc7uwvCdCPPPN1RQQezjLzrqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
